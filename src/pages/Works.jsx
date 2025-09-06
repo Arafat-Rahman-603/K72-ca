@@ -28,7 +28,7 @@ const Works = () => {
       },
       scrollTrigger: {
         trigger: '.lol',
-        start: 'top 100%',
+        start: 'top 50%',
         end: 'top -150%',
         scrub: true
       }
