@@ -108,7 +108,7 @@ const FullScreenNav = () => {
           </div>
         </div>
         <div className="">
-          <div className="relative origin-top link border-t-[1px]  border-white cursor-pointer">
+          <div className="relative origin-top link   border-white cursor-pointer">
             <h1
               className="font-sans font-bold text-[7vw] leading-[0.8] uppercase text-center pt-10"
             >
@@ -155,7 +155,7 @@ const FullScreenNav = () => {
             </div>
             </Link>
           </div>
-          <div className="relative origin-top link border-t-[1px] cursor-pointer border-white ">
+          <div className="relative origin-top link  cursor-pointer border-white ">
             <h1
               className="font-sans font-bold text-[7vw] leading-[0.8] uppercase text-center pt-10"
             >
@@ -203,7 +203,7 @@ const FullScreenNav = () => {
             </div>
             </Link>
           </div>
-          <div className="relative origin-top link border-t-[1px] cursor-pointer border-white ">
+          <div className="relative origin-top link  cursor-pointer border-white ">
             <h1
               className="font-sans font-bold text-[7vw] leading-[0.8] uppercase text-center pt-10"
             >
@@ -251,7 +251,7 @@ const FullScreenNav = () => {
             </div>
             </Link>
           </div>
-          <div className="relative origin-top link border-t-[1px] cursor-pointer border-white ">
+          <div className="relative origin-top link  cursor-pointer border-white ">
             <h1
               className="font-sans font-bold text-[7vw] leading-[0.8] uppercase text-center pt-10 "
             >
