@@ -22,14 +22,14 @@ const Works = () => {
 
   useGSAP(function () {
     gsap.from('.hero', {
-      height: '100px',
+      height: '500px',
       stagger: {
         amount: 0.4
       },
       scrollTrigger: {
         trigger: '.lol',
-        start: 'top 50%',
-        end: 'top -150%',
+        start: 'top 0',
+        end: 'top -200%',
         scrub: true
       }
     })
