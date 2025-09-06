@@ -122,7 +122,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 h-10 mx-1 w-25 rounded-full shrink-0 md:w-50  object-cover"
-                  src="public/nav1.png"
+                  src="nav1.png"
                   alt="noOne"
                 />
                 <h2 className="font-sans whitespace-nowrap font-bold text-[5vw] uppercase text-center ">
@@ -130,7 +130,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav2.jpg"
+                  src="nav2.jpg"
                   alt="noOne"
                 />
               </div>
@@ -140,7 +140,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav1.png"
+                  src="nav1.png"
                   alt="noOne"
                 />
                 <h2 className="font-sans whitespace-nowrap font-bold text-[5vw] uppercase text-center ">
@@ -148,7 +148,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav2.jpg"
+                  src="nav2.jpg"
                   alt="noOne"
                 />
               </div>
@@ -170,7 +170,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav1.png"
+                  src="nav1.png"
                   alt="noOne"
                 />
                 <h2 className="font-sans whitespace-nowrap font-bold text-[5vw] uppercase text-center ">
@@ -178,7 +178,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav2.jpg"
+                  src="nav2.jpg"
                   alt="noOne"
                 />
               </div>
@@ -188,7 +188,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav1.png"
+                  src="nav1.png"
                   alt="noOne"
                 />
                 <h2 className="font-sans whitespace-nowrap font-bold text-[5vw] uppercase text-center ">
@@ -196,7 +196,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav2.jpg"
+                  src="nav2.jpg"
                   alt="noOne"
                 />
               </div>
@@ -218,7 +218,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav1.png"
+                  src="nav1.png"
                   alt="noOne"
                 />
                 <h2 className="font-sans whitespace-nowrap font-bold text-[5vw] uppercase text-center ">
@@ -226,7 +226,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav2.jpg"
+                  src="nav2.jpg"
                   alt="noOne"
                 />
               </div>
@@ -236,7 +236,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav1.png"
+                  src="nav1.png"
                   alt="noOne"
                 />
                 <h2 className="font-sans whitespace-nowrap font-bold text-[5vw] uppercase text-center ">
@@ -244,7 +244,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav2.jpg"
+                  src="nav2.jpg"
                   alt="noOne"
                 />
               </div>
@@ -266,7 +266,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav1.png"
+                  src="nav1.png"
                   alt="noOne"
                 />
                 <h2 className="font-sans whitespace-nowrap font-bold text-[5vw] uppercase text-center ">
@@ -274,7 +274,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav2.jpg"
+                  src="nav2.jpg"
                   alt="noOne"
                 />
               </div>
@@ -284,7 +284,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav1.png"
+                  src="nav1.png"
                   alt="noOne"
                 />
                 <h2 className="font-sans whitespace-nowrap font-bold text-[5vw] uppercase text-center ">
@@ -292,7 +292,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="md:h-15 rounded-full shrink-0 md:w-50 h-10 mx-1 w-25 object-cover"
-                  src="public/nav2.jpg"
+                  src="nav2.jpg"
                   alt="noOne"
                 />
               </div>
